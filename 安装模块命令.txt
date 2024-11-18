@@ -1,0 +1,1 @@
+pip install requests curl_cffi pyexecjs tqdm pycryptodome -i https://pypi.doubanio.com/simple/
