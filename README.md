@@ -64,4 +64,4 @@ python main.py
 ```
 
 # wx交流群：
-![image](https://ma.suv.run/uploads/picture/QRcode/16_d0e8944d9af4dabf92232bb55368394a.png?t=1731924272)
+![image](https://ma.suv.run/uploads/picture/QRcode/17_d0e8944d9af4dabf92232bb55368394a.png?t=1733124963)
